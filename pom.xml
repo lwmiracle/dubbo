@@ -142,6 +142,7 @@
         <module>bom</module>
         <module>all</module>
         <module>distribution</module>
+        <module>dubbo-lw</module>
     </modules>
 
     <dependencyManagement>
@@ -432,6 +433,7 @@
                         </property>
                         <property>
                             <name>onerror</name>
+                            <!--suppress UnresolvedMavenProperty -->
                             <value>${onerror}</value>
                         </property>
                     </systemProperties>
