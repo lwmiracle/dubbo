@@ -1,0 +1,3 @@
+black=com.l.dubbo.spi.car.BlackCar
+red=com.l.dubbo.spi.car.RedCar
+com.l.dubbo.spi.car.CarWrapper

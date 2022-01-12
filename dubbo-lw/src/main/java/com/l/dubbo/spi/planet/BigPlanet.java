@@ -1,4 +1,4 @@
-package com.l.dubbo.planet;
+package com.l.dubbo.spi.planet;
 
 public class BigPlanet implements Planet {
     private Planet planet;

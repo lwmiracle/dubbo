@@ -31,10 +31,9 @@ public class Consumer {
 
         while (true) {
             try {
-                Thread.sleep(1000);
                 String hello = demoService.sayHello("world"); // call remote method
                 System.out.println(hello); // get result
-
+                Thread.sleep(60000);
             } catch (Throwable throwable) {
                 throwable.printStackTrace();
             }

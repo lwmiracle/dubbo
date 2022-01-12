@@ -1,0 +1,3 @@
+Earth=com.l.dubbo.spi.planet.Earth
+Venus=com.l.dubbo.spi.planet.Venus
+com.l.dubbo.spi.planet.BigPlanet

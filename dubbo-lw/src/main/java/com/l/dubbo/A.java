@@ -2,7 +2,7 @@ package com.l.dubbo;
 
 
 
-import com.l.dubbo.color.Color;
+import com.l.dubbo.spi.color.Color;
 
 import java.util.Iterator;
 import java.util.ServiceLoader;

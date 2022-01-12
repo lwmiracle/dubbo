@@ -1,4 +1,4 @@
-package com.l.dubbo.planet;
+package com.l.dubbo.spi.planet;
 
 import com.alibaba.dubbo.common.extension.SPI;
 

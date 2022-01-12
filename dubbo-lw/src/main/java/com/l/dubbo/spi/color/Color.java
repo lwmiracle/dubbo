@@ -1,4 +1,4 @@
-package com.l.dubbo.color;
+package com.l.dubbo.spi.color;
 
 public interface Color {
     void getColour();

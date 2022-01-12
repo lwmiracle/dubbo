@@ -2,7 +2,7 @@ package com.l.dubbo;
 
 import com.alibaba.dubbo.common.URL;
 import com.alibaba.dubbo.common.extension.ExtensionLoader;
-import com.l.dubbo.car.Driver;
+import com.l.dubbo.spi.car.Driver;
 
 import java.util.HashMap;
 import java.util.Map;

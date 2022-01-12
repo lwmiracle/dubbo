@@ -1,7 +1,7 @@
 package com.l.dubbo;
 
 import com.alibaba.dubbo.common.extension.ExtensionLoader;
-import com.l.dubbo.planet.Planet;
+import com.l.dubbo.spi.planet.Planet;
 
 
 public class B {
